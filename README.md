@@ -8,8 +8,8 @@ Without a strong understanding of your customers and their behaviors, it’s har
 
 ## Code and Resources Used
 
-Python Version: 3.7
-Packages: pandas, numpy, sklearn, tensorflow
+* Python Version: 3.7
+* Packages: pandas, numpy, sklearn, tensorflow
 
 ## Attributes
 
@@ -25,3 +25,17 @@ Packages: pandas, numpy, sklearn, tensorflow
 * Has credit card
 * IsActiveMember
 * EstimatedSalary
+
+## Data Handling
+
+* Importing the libraries
+* Data Preprocessing
+* Encoding categorical data
+* Feature Scaling
+* Splitting the dataset into the Training set and Test set
+* Building the Artificial Neural Network
+* predictions and evaluating the model
+
+# Conclusion
+
+Model Accuracy = 86.25%
