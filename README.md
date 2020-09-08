@@ -6,6 +6,14 @@ Having a predictive churn model gives you awareness and quantifiable metrics to 
 
 Without a strong understanding of your customers and their behaviors, it’s hard to retain them so the first step in creating this model is understanding your customer behavior from customer data points. Lets see what kind of data do we need to to asses the triggers that caused them to ultimately leave your company.
 
+## Reasons Why Customer Retention Is Important
+Below you can find 5 reasons why customer retention is important according to [dcrstrategies.com](https://www.dcrstrategies.com/customer-incentives/5-reasons-customer-retention-business/)
+* Companies save money on marketing.
+* Repeat purchases from repeat customers means repeat profit.
+* Free word-of-mouth advertising.
+* Retained customers provide valuable feedback.
+* Previous customers will pay premium prices.
+
 ## Code and Resources Used
 
 * Python Version: 3.7
